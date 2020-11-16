@@ -12,7 +12,7 @@ and have a starting point for additional independent learning.  You can find sli
 Since these materials are purely for demonstration purposes only, the easiest way to play with the code is to open 
 the tutorial notebook using Google Colab.  Colab provides a free Python/Jupyter environment with all of the standard Python 
 data science packages pre-installed, so it's extremely easy to fire up on your own.  You can open the notebook direclty 
-from this Github repository by going to the following link: [https://colab.research.google.com/github/patrickvankessel/AAPOR-Text-Analysis-2019/blob/master/Tutorial.ipynb](https://colab.research.google.com/github/patrickvankessel/AAPOR-Text-Analysis-2019/blob/master/Tutorial.ipynb)
+from this Github repository by going to the following link: [https://colab.research.google.com/github/patrickvankessel/text-analysis-workshop/blob/main/Tutorial.ipynb](https://colab.research.google.com/github/patrickvankessel/text-analysis-workshop/blob/main/Tutorial.ipynb)
 
 ### Run locally
 
